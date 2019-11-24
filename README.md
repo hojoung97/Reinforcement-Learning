@@ -14,3 +14,6 @@ For more information about OpenAI Gym:
 https://github.com/openai/gym (OpenAI Gym Github)
 
 The Wiki page on the Github page gives a detailed view on most of the environments.
+
+## Q Learning
+What is Q-learning? Q-learning is a reinforcement learning algorithm where the agent tries to learn a policy that teaches which actions to take under certain circumstances.This algorithm is based on [Markov decision process](https://en.wikipedia.org/wiki/Markov_decision_process) and here is an brief explanation of the math that goes behind Q-learning.
