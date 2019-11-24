@@ -28,3 +28,6 @@ For each state, we take the action with the greatest Q value which ultimately ma
 
 For more information on Q Learning:
 https://en.wikipedia.org/wiki/Q-learning (Q learning Wikipedia)
+
+## Deep Q Learning (DQN)
+#### TODO: Add the rest of the topics...
