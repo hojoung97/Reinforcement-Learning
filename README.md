@@ -22,4 +22,9 @@ What is Q-learning? Q-learning is a reinforcement learning algorithm where the a
 
 This is the formula used to calculate Q values and we create a table of Q values where each row is a state and each column is an possible action.
 
-![q_formula](README_images/q_table.JPG)
+![q_table](README_images/q_table.png)
+
+For each state, we take the action with the greatest Q value which ultimately make our agent win the game.
+
+For more information on Q Learning:
+https://en.wikipedia.org/wiki/Q-learning (Q learning Wikipedia)
