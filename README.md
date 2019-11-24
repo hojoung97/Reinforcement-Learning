@@ -29,5 +29,10 @@ For each state, we take the action with the greatest Q value which ultimately ma
 For more information on Q Learning:
 https://en.wikipedia.org/wiki/Q-learning (Q learning Wikipedia)
 
+## Frozen Lake with Q learning
+This is one of the games I have played around with. It is called frozen lake. Basically, we want to get from 'S'(the starting point) to 'G'(the goal point). 'F' denotes the frozen part of the lake where we can step on and 'H' denotes the hole in the lake where we are not suppose to step on. If we do step on 'H', it is game over.
+
+![frozen lake demo](README_images/frozen_lake_q.gif)
+
 ## Deep Q Learning (DQN)
 #### TODO: Add the rest of the topics...
