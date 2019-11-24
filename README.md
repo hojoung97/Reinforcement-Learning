@@ -34,5 +34,7 @@ This is one of the games I have played around with. It is called frozen lake. Ba
 
 ![frozen lake demo](README_images/frozen_lake_q.gif)
 
+As we can see, the agent is trying to make its way to the goal point by only stepping on the frozen part of the lake. The output also displays episode number (basically the nth trial of the game), current state, action taken, total reward gained, and epsilon decay for q learning to better visualize how our agent is doing.
+
 ## Deep Q Learning (DQN)
 #### TODO: Add the rest of the topics...
